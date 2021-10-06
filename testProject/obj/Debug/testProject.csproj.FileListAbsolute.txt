@@ -1,0 +1,7 @@
+E:\isProgramer\C_sharp\projects\forINTERLINKS\testProject\testProject\bin\Debug\testProject.exe.config
+E:\isProgramer\C_sharp\projects\forINTERLINKS\testProject\testProject\bin\Debug\testProject.exe
+E:\isProgramer\C_sharp\projects\forINTERLINKS\testProject\testProject\bin\Debug\testProject.pdb
+E:\isProgramer\C_sharp\projects\forINTERLINKS\testProject\testProject\obj\Debug\testProject.csproj.AssemblyReference.cache
+E:\isProgramer\C_sharp\projects\forINTERLINKS\testProject\testProject\obj\Debug\testProject.csproj.CoreCompileInputs.cache
+E:\isProgramer\C_sharp\projects\forINTERLINKS\testProject\testProject\obj\Debug\testProject.exe
+E:\isProgramer\C_sharp\projects\forINTERLINKS\testProject\testProject\obj\Debug\testProject.pdb
